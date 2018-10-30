@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E0B6F8AC2189154C00F7FA1F /* AlarmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0B6F8AB2189154C00F7FA1F /* AlarmViewController.swift */; };
 		E0F1EC5A2182575B0020C91D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F1EC592182575B0020C91D /* AppDelegate.swift */; };
 		E0F1EC5C2182575B0020C91D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F1EC5B2182575B0020C91D /* ViewController.swift */; };
 		E0F1EC612182575C0020C91D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0F1EC602182575C0020C91D /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E0B6F8AB2189154C00F7FA1F /* AlarmViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmViewController.swift; sourceTree = "<group>"; };
 		E0F1EC562182575B0020C91D /* FunFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunFacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0F1EC592182575B0020C91D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0F1EC5B2182575B0020C91D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				E0F1EC652182575D0020C91D /* Info.plist */,
 				E0F1EC6E218288AB0020C91D /* FactProvider.swift */,
 				E0F1EC702182AB400020C91D /* BackgroundColorProvider.swift */,
+				E0B6F8AB2189154C00F7FA1F /* AlarmViewController.swift */,
 			);
 			path = FunFacts;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0B6F8AC2189154C00F7FA1F /* AlarmViewController.swift in Sources */,
 				E0F1EC5C2182575B0020C91D /* ViewController.swift in Sources */,
 				E0F1EC5A2182575B0020C91D /* AppDelegate.swift in Sources */,
 				E0F1EC712182AB400020C91D /* BackgroundColorProvider.swift in Sources */,
